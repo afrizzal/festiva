@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docker-files",
+    "\\docker-files\\mysql",
+    "\\docker-files\\nginx",
+    "\\docker-files\\nginx\\conf.d",
+    "\\docker-files\\php",
+    "\\docker-files\\supervisor"
+  ],
+  "SelectedNode": "\\docker-compose.yml",
+  "PreviewInSolutionExplorer": false
+}
